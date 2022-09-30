@@ -1,6 +1,6 @@
 .navbar-brand {
-  width: 200px;
   padding-left: 20px;
+  display: flex;
 }
 
 #mainNav {
